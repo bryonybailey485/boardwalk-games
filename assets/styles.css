@@ -2,7 +2,7 @@
 :root{
     --primary-font: "inter", sans-serif;
     --secondary-font: "Macondo", cursive;
-    --primary-color: #416a8e;
+    --primary-color: #3a2620;
     --secondry-color: #aa9581;
     --highlight-color:#416a8e;
     --light-highlight: #7a9fc2;
@@ -17,7 +17,16 @@ h3{
     font-family: var(--secondary-font);
     color:var(--primary-color);
 }
-
+.sub-heading-color{
+    color: var(--highlight-color);
+}
+/* Navbar*/
+#navbar{
+    background-color: var(--primary-color);
+}
+#navbar .logo(
+    width:30px;
+)
 
 /* This is commented out in case we need to visualise other grids later. */
 /* .container, 
