@@ -24,9 +24,11 @@ h3{
 #navbar{
     background-color: var(--primary-color);
 }
-#navbar .logo(
+#navbar .logo{
+
     width:30px;
-)
+}
+
 
 /* This is commented out in case we need to visualise other grids later. */
 /* .container, 
