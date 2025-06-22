@@ -19,15 +19,15 @@ h3{
 }
 
 
-
-.container, 
+/* This is commented out in case we need to visualise other grids later. */
+/* .container, 
 .row {
     border: 2px solid black;
 }
 .col-12 {
     border: 2px solid white;
     background-color: lightgrey;
-}
+} */
 
 
 
