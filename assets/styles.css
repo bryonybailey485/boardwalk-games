@@ -8,6 +8,8 @@
     --light-highlight: #7a9fc2;
 
 }
+
+/* Global Styles */
 body{
     font-family: var(--primary-font);
 }
